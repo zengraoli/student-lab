@@ -1,0 +1,112 @@
+[
+  {
+    "id": "z_asian",
+    "model": "zimage",
+    "title": "NiceGirls · 亚洲女性",
+    "file": "zimage-lora/NIceAsians_Zimage.safetensors",
+    "sha256": "b51a0a20fd93ba3fec2f0e9a99c3f3e4957164711605df0e17c79734af3949fb",
+    "bytes": 680326992,
+    "source": "https://civitai.com/models/1862761?modelVersionId=2526600",
+    "trigger": "",
+    "default_scale": 0.7
+  },
+  {
+    "id": "z_character",
+    "model": "zimage",
+    "title": "角色设定 · 多视角",
+    "file": "zimage-lora/CharacterDesign-IZT-V1.safetensors",
+    "sha256": "b316b482539187effba867514f0d9db279279d738fbae48be5928a4e558b76eb",
+    "bytes": 170127760,
+    "source": "https://civitai.com/models/100435?modelVersionId=2500612",
+    "trigger": "CharacterDesignIZT",
+    "default_scale": 0.7
+  },
+  {
+    "id": "z_cinematic",
+    "model": "zimage",
+    "title": "Luneva · 电影感",
+    "file": "zimage-lora/ZIT_Midjourney_Luneva_Cinematic_v1_r128.safetensors",
+    "sha256": "18401392af09dbd3229e8107152996f18c69f6f4bf8f4de9c4fcdfeec93adb21",
+    "bytes": 680326960,
+    "source": "https://civitai.com/models/2185167?modelVersionId=2460437",
+    "trigger": "",
+    "default_scale": 0.7
+  },
+  {
+    "id": "q_asian",
+    "model": "qwen",
+    "title": "NiceGirls · 亚洲女性",
+    "file": "qwen-image-lora/niceasians_qwen21.safetensors",
+    "sha256": "57d622238be975469d51309bf4f6835ffa8efd74557edd2cd6c3fe26cd9841b2",
+    "bytes": 79743888,
+    "source": "https://civitai.com/models/1862761?modelVersionId=3349898",
+    "trigger": "",
+    "default_scale": 0.7
+  },
+  {
+    "id": "q_nicegirls",
+    "model": "qwen",
+    "title": "NiceGirls · v2",
+    "file": "qwen-image-lora/nicegirls_v2_qwen21.safetensors",
+    "sha256": "8ea63de359194c1fdb9b99bfd05bd6f2aaa19da4667711f40c58bf3505fc7bce",
+    "bytes": 79743896,
+    "source": "https://civitai.com/models/1862761?modelVersionId=3352079",
+    "trigger": "",
+    "default_scale": 0.7
+  },
+  {
+    "id": "q_lenovo",
+    "model": "qwen",
+    "title": "Lenovo · 写实",
+    "file": "qwen-image-lora/lenovo_qwen21.safetensors",
+    "sha256": "7f1e95c3ec1e9c7cea197f7b6f80f601af8e6b479f6ead78ab16df542f447c0e",
+    "bytes": 79743896,
+    "source": "https://civitai.com/models/1662740?modelVersionId=3349565",
+    "trigger": "",
+    "default_scale": 0.7
+  },
+  {
+    "id": "z_snapshot",
+    "model": "zimage",
+    "title": "手机抓拍 · Realistic Snapshot",
+    "file": "zimage-lora/ZIT-手机抓拍-Realistic Snapshot_V1.safetensors",
+    "sha256": "182d7f92475b8d7f792203127738d31270403e86e007fdc7792d324a3406e556",
+    "bytes": 170127768,
+    "source": "https://www.liblib.art/modelinfo/a65506e05cb5424a884e7c29a83f8e60",
+    "trigger": "",
+    "default_scale": 0.5
+  },
+  {
+    "id": "z_wanghong",
+    "model": "zimage",
+    "title": "ZIT网红脸 · 固定脸模",
+    "file": "zimage-lora/ZIT网红脸_V1.safetensors",
+    "sha256": "3a88cc90a38429e200cfeb490a0691a2ecda60fd446c4f9010bcf9da894a65bb",
+    "bytes": 170128272,
+    "source": "https://www.liblib.art/modelinfo/4bbc44bd1ddc44b4943fca36cd84619d",
+    "trigger": "",
+    "default_scale": 0.7
+  },
+  {
+    "id": "z_highface",
+    "model": "zimage",
+    "title": "脸模 · 精选高级脸",
+    "file": "zimage-lora/Z-Image _ 脸模_精选高级脸_Z-Image脸模V1.1.safetensors",
+    "sha256": "c5d0b893391a5c4b1b4ba1bc776dbc5f49af240df237de49653c769cc699a699",
+    "bytes": 120490832,
+    "source": "https://www.liblib.art/modelinfo/11a1522ae3d4499890cccb7da443ecb7",
+    "trigger": "",
+    "default_scale": 0.7
+  },
+  {
+    "id": "q_wyw",
+    "model": "qwen",
+    "title": "写实美女 · WYW",
+    "file": "qwen-image-lora/Qwen-image-2.1写实美女-WYW_V1.0.safetensors",
+    "sha256": "c046007f4c1cdd633d59aa132214923c3cb0b34a0f1b4128c676c8eccc172d50",
+    "bytes": 167830416,
+    "source": "https://www.liblib.art/modelinfo/f5ed78389cf34266be1e9f417f569041",
+    "trigger": "HJYHJ",
+    "default_scale": 1.0
+  }
+]

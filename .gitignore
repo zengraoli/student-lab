@@ -1,0 +1,24 @@
+# Only the service code is tracked. Data, model weights, LoRAs, API keys (agent_config.json),
+# logs, backups and doc/demo material stay local.
+/*
+!/.gitignore
+!/README.md
+!/CHANGES.md
+!/app.py
+!/agent.py
+!/trainer.py
+!/pose.py
+!/bench.py
+!/lora_compat.py
+!/client.py
+!/index.html
+!/canvas.js
+!/canvas.css
+!/panels.js
+!/lora_comparison.html
+!/loras.json
+!/presets.json
+!/requirements-server.txt
+!/start.sh
+!/restart.sh
+__pycache__/

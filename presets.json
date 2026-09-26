@@ -1,0 +1,46 @@
+[
+  {
+    "id": "photo",
+    "title": "真人肖像",
+    "prompt": "Editorial photograph of one 25-year-old Chinese woman, attractive natural face, shoulder-length black hair, minimal makeup, visible skin texture, gentle confident expression, wearing a blue linen shirt. Head and shoulders portrait at eye level, soft window daylight, neutral gray background. No text, no watermark.",
+    "width": 1024,
+    "height": 1024,
+    "seeds": [
+      42,
+      2026
+    ]
+  },
+  {
+    "id": "anime",
+    "title": "动漫风格",
+    "prompt": "Polished 2D anime illustration of one adult 25-year-old Chinese woman, elegant attractive face, long black hair, expressive dark eyes, wearing a blue jacket over a white shirt, half-body portrait on a sunny street in Hangzhou, clean line art, refined cel shading, cinematic composition. No text, no watermark.",
+    "width": 1024,
+    "height": 1024,
+    "seeds": [
+      42,
+      2026
+    ]
+  },
+  {
+    "id": "curvy",
+    "title": "丰满体型",
+    "prompt": "Full-body fashion editorial photograph of one adult 25-year-old Chinese woman with a naturally full curvy figure, fuller bust and hips, balanced realistic anatomy, wearing a fitted opaque emerald green evening dress and low heels. Standing comfortably in a studio, both arms relaxed at her sides, whole head and both shoes visible with margin. Soft light, elegant face, realistic skin. No text, no watermark.",
+    "width": 1024,
+    "height": 1024,
+    "seeds": [
+      42,
+      2026
+    ]
+  },
+  {
+    "id": "longlegs",
+    "title": "长腿全身",
+    "prompt": "Full-body fashion editorial photograph of one adult 25-year-old Chinese woman with long legs and anatomically plausible tall proportions, wearing a white blouse, high-waisted navy shorts and white sneakers. Standing on a seaside promenade, level camera, entire head and both shoes visible with margin, relaxed arms, refined face, natural daylight. No text, no watermark.",
+    "width": 1024,
+    "height": 1024,
+    "seeds": [
+      42,
+      2026
+    ]
+  }
+]
